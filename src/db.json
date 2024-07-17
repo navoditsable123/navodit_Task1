@@ -1,0 +1,21 @@
+{
+  "events": [
+    {
+      "id": "1"
+    },
+    {
+      "id": "1",
+      "name": "manish",
+      "date": "2024-07-26",
+      "loc": "amravti",
+      "des": "good"
+    },
+    {
+      "id": "1",
+      "name": "manish",
+      "date": "",
+      "loc": "",
+      "des": ""
+    }
+  ]
+}
